@@ -1,7 +1,7 @@
 # This project was completed using solana-cli. The commands used to mint and deploy the spl-token can be found in the links below.
 
 # STEP 1
-## Set RPC-URL [I created one on chainstack].
+## Set RPC-URL [I created one on chainstack] and generated new solana-keypair with pubkey.
 #### https://github.com/gridline1902/Solana-Keypair-With-Updated-Balance/blob/master/New-Keypair-generated-with-pubKey.png
 
 # STEP 2
